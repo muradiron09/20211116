@@ -8,7 +8,7 @@
  * Purpose: This example is an exercise in implementing functions
  * and the logic structures
  */
-
+   
 #include <stdio.h>
 #include "lstructures.h"
 
